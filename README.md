@@ -1,1 +1,1 @@
-# Heart-stroke-prediction-main
+# Heart stroke prediction
